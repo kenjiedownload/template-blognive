@@ -994,15 +994,6 @@ optgroup::-moz-focus-inner {
 #gmr-secondaryresponsive-menu {
 	display: none;
 }
-#gmr-responsive-menu:before {
-    content: "\62";
-    display: inline-block;
-    font: normal normal normal 16px/1 ElegantIcons;
-    -webkit-font-smoothing: antialiased;
-    position: relative;
-    left: -7px;
-    top: 0;
-}
 .sidr li input[type="text"],
 .sidr li input[type="search"] {
 	border: 2px solid #ecf0f1 !important;
@@ -1462,11 +1453,6 @@ ol.comment-list li .comment-meta:after,
 .widget_archive li:before,
 .widget_categories li:before {
 	content: "\6d";
-}
-.widget_pages li:before,
-.widget_meta li:before,
-.widget_nav_menu li:before {
-	content: "\62";
 }
 
 /*--------------------------------------------------------------
