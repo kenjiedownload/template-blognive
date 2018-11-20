@@ -2,11 +2,11 @@
 
 @font-face {
  font-family:'BebasNeueRegular';
- src:url('//pahe.in/wp-content/themes/sahifa/fonts/BebasNeue/BebasNeue-webfont.eot');
- src:url('//pahe.in/wp-content/themes/sahifa/fonts/BebasNeue/BebasNeue-webfont.eot?#iefix') format('embedded-opentype'),
-url('//pahe.in/pahe.in/wp-content/themes/sahifa/fonts/BebasNeue/BebasNeue-webfont.woff') format('woff'),
-url('//pahe.in/wp-content/themes/sahifa/fonts/BebasNeue/BebasNeue-webfont.ttf') format('truetype'),
-url('//pahe.in/wp-content/themes/sahifa/fonts/BebasNeue/BebasNeue-webfont.svg#BebasNeueRegular') format('svg');
+ src:url('https://pahe.in/wp-content/themes/sahifa/fonts/BebasNeue/BebasNeue-webfont.eot');
+ src:url('https://pahe.in/wp-content/themes/sahifa/fonts/BebasNeue/BebasNeue-webfont.eot?#iefix') format('embedded-opentype'),
+url('https://pahe.in/pahe.in/wp-content/themes/sahifa/fonts/BebasNeue/BebasNeue-webfont.woff') format('woff'),
+url('https://pahe.in/wp-content/themes/sahifa/fonts/BebasNeue/BebasNeue-webfont.ttf') format('truetype'),
+url('https://pahe.in/wp-content/themes/sahifa/fonts/BebasNeue/BebasNeue-webfont.svg#BebasNeueRegular') format('svg');
  font-weight:normal;
  font-style:normal
 }
